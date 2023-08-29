@@ -1,36 +1,56 @@
+<br/>
+<p align="center">
+  <a href="https://github.com/aaryavbehl/depressionwebsite">
+    <img src="https://imgs.search.brave.com/s_ypLYaeq0T3E_op8hXwNGlxBFYM0ZGl3EKehHGJ4A4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzdiLzJh/LzVmLzdiMmE1ZmY1/MDU0YWE3ZmZjZTNi/OTdmMDY2NjdjOWI4/LS1naWYtZ2lmLXJh/aW5ib3ctY29ubmVj/dGlvbi5qcGc" alt="Logo" width="80" height="80">
+  </a>
 
-TITLE: 
-Moon - 100% Fully Responsive Multipurpose HTML5 Bootstrap 4 Template
+  <h3 align="center">WEBSITE</h3>
 
-AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
+  <p align="center">
+    A website to spread awareness of depression
+    <br/>
+    <br/>
+  </p>
+</p>
 
-Websites: https://gettemplates.co http://freehtml5.co/
+![Forks](https://img.shields.io/github/forks/aaryavbehl/depressionwebsite?style=social) ![Stargazers](https://img.shields.io/github/stars/aaryavbehl/depressionwebsite?style=social) 
+
+## About The Project
+
+This project was mainly made for the Artificial Intelligence Practical Activity.
+
+## Built With
+
+The Website is built with HTML, CSS and Bootstrap
+
+## Getting Started
+
+To deploy the website on your own, you will have to download the git repo.
+
+### Prerequisites
+
+Any platform device that can connect and view website
+
+Recommended: Any PC
+
+### Installation
+
+1. Clone the repo.
+
+2. Open the .html file.
+
+3. Voilla!
+
+`You can open the full website project in your preferred code editor to modify the website.`
+
+## Usage
+
+Main purpose of this website is to spread awareness and knowledge regarding depression.
 
 
-CREDITS:
 
-Bootstrap
-http://getbootstrap.com/
 
-jQuery
-http://jquery.com/
 
-OwlCarousel
-https://owlcarousel2.github.io/OwlCarousel2/
+## Authors
 
-Isotope
-https://isotope.metafizzy.co
-
-Lightcase
-https://cornel.bopp-art.com/lightcase/
-
-Waypoints
-http://imakewebthings.com/waypoints/
-
-jQuery countTo
-https://github.com/mhuggins/jquery-countTo
-
-Demo Images:
-http://unsplash.com
-
+* **Aaryav Behl** - *Hobbyist* - [Aaryav Behl](https://aaryav.netlify.app/) - *Built the website + Backend*
