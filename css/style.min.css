@@ -21,6 +21,7 @@ body {
     position: fixed;
     opacity: .8;
     z-index: -1;
+  }
 
 .boxed-page {
   margin: 0 auto;
